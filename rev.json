@@ -1,0 +1,46 @@
+{
+    "isAutenticated": true,
+    "userInformation": {
+        "firstName": "Jorge",
+        "lastName": "Velasquez",
+        "country": "Colombia",
+        "address": "Carrera 6 # 9-83",
+        "city": "Roldanillo",
+        "province": "Valle del cauca ",
+        "zipPostal": "63584"
+    },
+    "userCar": {
+        "6546406": {
+            "name": "Acer - Aspire TC-1770-UR11 Desktop-Intel Core i5-13400 10-8GB Memory-512GB SSD - Black",
+            "url": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6546/6546406_sd.jpg",
+            "id": 6546406,
+            "manufacturer": "Acer",
+            "modelNumber": "TC-1770-UR11",
+            "description": "Make everyday easlier with the high-performance Aspire TC. From basic computing to multimedia entertainment, it&#8217;s a robust hub for your every computing need. Snap between tasks with the latest 13th Gen Intel Core i5 processor and 8GB of memory, this sophisticated PC delivers plenty of speed, power and storage so you can play, create, do more! Easily expandable and with remarkable performance, the Aspire TC Series is the perfect partner when it comes to demanding tasks like video editing and compiling photo albums. And it offers front-panel media access so you can easily connect to your digital devices.",
+            "price": 529.99,
+            "category": "Desktop & All-in-One Computers",
+            "stock": 2,
+            "quantity": 2
+        }
+    },
+    "confirmedShippingInformation": true,
+    "firabaseAccesToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImE2YzYzNTNmMmEzZWMxMjg2NTA1MzBkMTVmNmM0Y2Y0NTcxYTQ1NTciLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiam9yZ2VsdmVsYXNxdWV6IiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2RpZ2l0YWwtZW1wb3JpdW0tc3RvcmUiLCJhdWQiOiJkaWdpdGFsLWVtcG9yaXVtLXN0b3JlIiwiYXV0aF90aW1lIjoxNzAwNjIxOTc4LCJ1c2VyX2lkIjoiMG5kajFrWm9QTldtdGNseGhHSWptRkFCb1piMiIsInN1YiI6IjBuZGoxa1pvUE5XbXRjbHhoR0lqbUZBQm9aYjIiLCJpYXQiOjE3MDA2MjE5NzgsImV4cCI6MTcwMDYyNTU3OCwiZW1haWwiOiJnZW9yZ2V0dzFAaG90bWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZ2VvcmdldHcxQGhvdG1haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.C78J1SvlidV3Afsnv0sDC7HDSyVotVMYdH2wlHOTzMzdHonNTkOiIF82jmpFgSvowrzw9lZfTJs_tudhE3W0bIF14ROHWV1bez9z_ZLKqrIGsLBYtVBPcbiWvbB2I5t1mHVHSc5EIdDppbx3_UdskZtoXqdC4M923qVr_Y3YtK1psv1Huw80x1yZGBKvmFnZ7j0Wvm-W_JBaxQU3jG3WnKZWkim0zbyUTi6G51UPPArMk_BNT3bkcdCXKzFqLRrfgwf0R19J5WD-QBERoGwUZebtfV08oX2idbSIYzkBCzEEjCudwQKbXavr5EqXe6gaxmoBU7YqaAjVeMpkA3e9pw",
+    "firebaseDataUser": {
+        "email": "georgetw1@hotmail.com",
+        "displayName": "jorgelvelasquez",
+        "uid": "0ndj1kZoPNWmtclxhGIjmFABoZb2"
+    },
+    "orders": [
+        {
+            "name": "Acer - Aspire TC-1770-UR11 Desktop-Intel Core i5-13400 10-8GB Memory-512GB SSD - Black",
+            "url": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6546/6546406_sd.jpg",
+            "id": 6546406,
+            "manufacturer": "Acer",
+            "modelNumber": "TC-1770-UR11",
+            "description": "Make everyday easlier with the high-performance Aspire TC. From basic computing to multimedia entertainment, it&#8217;s a robust hub for your every computing need. Snap between tasks with the latest 13th Gen Intel Core i5 processor and 8GB of memory, this sophisticated PC delivers plenty of speed, power and storage so you can play, create, do more! Easily expandable and with remarkable performance, the Aspire TC Series is the perfect partner when it comes to demanding tasks like video editing and compiling photo albums. And it offers front-panel media access so you can easily connect to your digital devices.",
+            "price": 529.99,
+            "category": "Desktop & All-in-One Computers",
+            "stock": 0
+        }
+    ]
+}

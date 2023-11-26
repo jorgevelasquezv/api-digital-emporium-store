@@ -1,0 +1,50 @@
+[
+    {
+        "name": "All",
+        "id": "0"
+    },
+    {
+        "name": "Desktop & All-in-One Computers",
+        "id": "abcat0501000"
+    },
+    {
+        "name": "Digital Cameras",
+        "id": "abcat0401000"
+    },
+    {
+        "name": "All Cell Phones Whith Plans",
+        "id": "pcmcat209400050001"
+    },
+    {
+        "name": "Headphones",
+        "id": "abcat0204000"
+    },
+    {
+        "name": "Home Audio",
+        "id": "pcmcat241600050001"
+    },
+    {
+        "name": "Home Automation & Security",
+        "id": "pcmcat254000050002"
+    },
+    {
+        "name": "iPad, Tablets & E-Readers",
+        "id": "pcmcat209000050006"
+    },
+    {
+        "name": "Laptops",
+        "id": "abcat0502000"
+    },
+    {
+        "name": "Portable & Wireless Speakers",
+        "id": "pcmcat310200050004"
+    },
+    {
+        "name": "Refrigerators",
+        "id": "abcat0901000"
+    },
+    {
+        "name": "TVs",
+        "id": "abcat0101000"
+    }
+]

@@ -1,0 +1,13 @@
+# Archivos generados por el sistema
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.vscode/
+**/.idea/
+
+# Archivos de configuración
+.env
+.dockerignore
+
+# Archivos de datos
+data/
